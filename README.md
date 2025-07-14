@@ -3,7 +3,7 @@
 - 👷 I have worked for HSBC, Stori and Fondeadora, always in Credit Risk
 - 👀 I’m interested in Machine Learning applied to retail lending
 - 💞️ I'm a proud dad of three incredible boys and happily married to my beautiful wife
-- 📫 How to reach me: hector.daniel.mejia.hernandez@gmail.com
+- 📫 hector.daniel.mejia.hernandez@gmail.com
 
 <!--
 **Hector-Daniel/Hector-Daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
