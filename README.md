@@ -1,9 +1,9 @@
 ## Hi there 👋 I’m @Hector-Daniel
 - 📊 I consider myself expert in credit origination strategies for personal loans and credit cards, with mastery of tools such as:
-      * SAS
-      * SQL
-      * Python
-      * Amazon Quick Sight
+      -SAS
+      -SQL
+      -Python
+      -Amazon Quick Sight
 - 👷 I have worded for HSBC, Stori and Fondeadora, always in Credit Risk
 - 👀 I’m interested in Machine Learning applied to retail lending
 - 💞️ I'm a proud dad of three incredible boys and happily married to my beautiful wife
