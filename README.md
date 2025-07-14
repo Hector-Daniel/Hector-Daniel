@@ -1,5 +1,6 @@
 ## Hi there 👋 I’m @Hector-Daniel
 - 📊 I consider myself expert in credit origination strategies for personal loans and credit cards, with mastery of tools such as:
+- SAS
 -         SAS
           SQL
           Python
